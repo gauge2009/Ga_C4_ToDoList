@@ -1,0 +1,7 @@
+com/paad/todolist/NewItemFragment$OnNewItemAddedListener.class
+com/paad/todolist/ToDoListActivity.class
+com/paad/todolist/NewItemFragment.class
+com/paad/todolist/R$id.class
+com/paad/todolist/R.class
+com/paad/todolist/R$layout.class
+com/paad/todolist/ToDoListFragment.class
